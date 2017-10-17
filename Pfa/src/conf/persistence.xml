@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+  <persistence-unit name="PfaPU" transaction-type="JTA">
+    <jta-data-source>java:app/pfaFa</jta-data-source>
+    <class>com.mysql.entities.image</class>
+    <class>com.mysql.entities.user</class>
+    <class>com.mysql.entities.Image</class>
+    <class>com.mysql.entities.User</class>
+    <exclude-unlisted-classes>true</exclude-unlisted-classes>
+    <shared-cache-mode>DISABLE_SELECTIVE</shared-cache-mode>
+ 
+  </persistence-unit>
+</persistence>

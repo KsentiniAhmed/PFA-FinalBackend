@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/src/java/com/journaldev/jsf/filter/AuthorizationFilter.java</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/src/java/com/journaldev/jsf/dao/EmployeDAO.java</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/src/java/com/journaldev/jsf/beans/SessionUtils.java</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/web/admin.xhtml</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/src/java/com/journaldev/jsf/beans/Admin.java</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/src/java/com/journaldev/jsf/util/DataConnect.java</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/web/index.xhtml</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/src/java/com/journaldev/jsf/beans/Employe.java</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/src/java/com/journaldev/jsf/dao/CommandeDAO.java</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/src/java/com/journaldev/jsf/beans/Login.java</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/src/java/com/journaldev/jsf/beans/Commande.java</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/web/ajouterAdmin.xhtml</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/web/WEB-INF/faces-config.xml</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/web/ajouterEmplotye.xhtml</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/web/welcomePrimefaces.xhtml</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/web/afficheEmplotye.xhtml</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/web/login.xhtml</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/src/java/com/journaldev/jsf/dao/LoginDAO.java</file>
+            <file>file:/home/ksentini/NetBeansProjects/PFA_Admin/src/java/com/journaldev/jsf/dao/AdminDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
